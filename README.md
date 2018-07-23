@@ -1,0 +1,2 @@
+# AssistantJoe
+Assistant Joe, made by TheGreatChristian34, is a bot used to help people on your server. If people have questions to ask either you or one of your staff members, then they can use this bot to ask a question, and you or staff members can reply with an answer! Also, anyone of your server can give feedback about your server, with a 1-5 star rating and a message about how they feel about your server. They can also give suggestions about your server, and people can vote with it by reacting wiht :thumbsup: or :thumbsdown: ! This bot has a lot in store! Invite now!
